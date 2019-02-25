@@ -1,0 +1,9 @@
+.jumbotron{text-align:center; font-family:Laila;background-color:black;}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  .container-fluid img {
+        width: 100%;
+        height: 100%;
+  }

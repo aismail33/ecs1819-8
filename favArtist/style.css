@@ -1,0 +1,12 @@
+body {
+    text-align: center; background-color:  #ffaaaa; font-family: Verdana
+}
+img {
+    width:500px; border-style:solid; border-width:10px; border-color: #91274F; padding: 10px; margin: 2px;
+}
+ol {
+    text-align:left;
+}
+table,th,td {
+    border:2px solid black; 
+}
