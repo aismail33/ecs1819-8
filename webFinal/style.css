@@ -17,6 +17,14 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  align:center;
+  
 }
+ .col-lg-6 {
+      font-family: Archivo Narrow; color:#4a707a; padding:15px; border-width: 15px; border-style:Double; 
+  }
+   .col-lg- {
+      font-family: Archivo Narrow; color:#4a707a; padding:15px; border-width: 15px; border-style:Double; 
+  }
+  
+  
   
