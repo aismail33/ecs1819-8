@@ -1,0 +1,21 @@
+.jumbotron {
+    text-align:center; font-family: Pacifico; color: #c2c8c5; background-color: #4a707a !important;
+}
+
+body {
+    background-color: #ddddda !important;
+}
+ .nav a{
+       color: #4a707a;
+  }
+  .nav ul{
+ 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
+}
+
+.container-fluid {
+        font-family: Cherry Cream Soda; color:#4a707a; padding:15px; border-style:double; border-width: 15px;
+}

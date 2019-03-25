@@ -1,9 +1,10 @@
 .jumbotron {
-    text-align:center; font-family: Pacifico; color: #c2c8c5; background-color: #4a707a !important;
+    text-align:center; font-family: Pacifico; color: #4a707a; background-color: #c2c5c8;
+ 
 }
 
 body {
-    background-color: #ddddda !important;
+        background: linear-gradient(to bottom, #94b0b7 0%, #ddddda 100%);
 }
 .carousel-inner img {
       width: 100%;
@@ -19,12 +20,12 @@ body {
   width: 100%;
   
 }
- .col-lg-6 {
-      font-family: Archivo Narrow; color:#4a707a; padding:15px; border-width: 15px; border-style:Double; 
+.container-fluid
+{
+  font-family: Archivo Narrow; color:#4a707a; padding:15px; border-style:double; border-width: 15px;
+}
+ 
+   .col-lg-8 {
+      font-family: Archivo Narrow; color:#4a707a; padding:15px; border-style: dotted solid;
   }
-   .col-lg- {
-      font-family: Archivo Narrow; color:#4a707a; padding:15px; border-width: 15px; border-style:Double; 
-  }
-  
-  
   
